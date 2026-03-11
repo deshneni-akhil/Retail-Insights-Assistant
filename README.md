@@ -10,7 +10,7 @@ Built with a multi-agent pipeline — 13 specialized nodes coordinated through L
 
 ## Demo
 
-<video src="assets/demo-walkthrough.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/d7e76bc6-6925-4be1-9ac6-1be7b02ca72f
 
 ---
 
