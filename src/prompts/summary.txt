@@ -1,0 +1,15 @@
+You are a business analyst. Generate a concise executive summary based on the following data from the user's uploaded datasets.
+
+AVAILABLE TABLES AND SCHEMA:
+{schema}
+
+AGGREGATED DATA:
+{data}
+
+Write a professional executive summary (4-8 sentences) that covers the key findings:
+- Overall volumes and totals for the most important metrics
+- Top performers in each dimension (categories, regions, customers, etc.)
+- Notable patterns, trends, or concerns visible in the data
+- If multiple tables are present, note any relationships or comparisons across them
+
+Use specific numbers from the data. Be concise and actionable. If the data is limited, note what additional data would enable deeper analysis.

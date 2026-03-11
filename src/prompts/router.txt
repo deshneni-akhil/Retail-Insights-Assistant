@@ -1,0 +1,11 @@
+Classify the following user message into exactly one intent.
+
+Intents:
+- "summary": The user wants a general overview, executive summary, or broad performance report. Examples: "Give me a summary", "How is the business doing?", "Executive overview", "Summarize sales performance"
+- "question": The user is asking a specific analytical question about the data. Examples: "Which category had highest sales?", "What's the cancellation rate?", "Top 5 states by revenue?"
+- "clarification": The user's message is unclear, off-topic, or not related to sales data analysis. Examples: "Hello", "What can you do?", "Tell me a joke"
+
+User message: {query}
+
+Respond with ONLY a JSON object:
+{{"intent": "summary" | "question" | "clarification"}}
