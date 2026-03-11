@@ -132,10 +132,11 @@ dmypy.json
 
 #agentic code
 SPEC.md
-presentation/
 */sessions/
 .claude/
 ARCHITECTURE.md
 CLAUDE.md
 SKILLS.md
 *.lock
+*tation.py
+*tions.py
