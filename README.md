@@ -8,6 +8,12 @@ Built with a multi-agent pipeline — 13 specialized nodes coordinated through L
 
 ---
 
+## Demo
+
+<video src="assets/demo-walkthrough.mp4" controls width="100%"></video>
+
+---
+
 ## Features
 
 - **Natural Language Q&A** — ask questions in English, get answers backed by real data
